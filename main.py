@@ -7,7 +7,7 @@ are cleared, because the grading sandbox mounts /output.
 
 import os
 
-LINE = "WARNING: This human runs on caffeine and spite. Do not shake before 9 AM. May spontaneously talk about crypto."
+LINE = "WARNING: This human runs on caffeine and spite. Do not shake before 9 AM. Side effects include sudden crypto lectures and unsolicited life advice."
 OUTPUT_DIR = "/output"
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, "entry.txt")
 
